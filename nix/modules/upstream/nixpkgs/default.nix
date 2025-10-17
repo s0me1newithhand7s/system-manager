@@ -18,6 +18,10 @@
       "/services/web-servers/nginx/"
       # nix settings
       "/config/nix.nix"
+
+      # things tested by hand7s
+      "/services/web-servers/caddy"
+      "/programs/yazi.nix"
     ];
 
   options =
